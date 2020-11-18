@@ -1,5 +1,5 @@
 {
-    "name": "snowplow/snowplow-tracker",
+    "name": "2befound/snowplow-tracker",
     "description": "Snowplow event tracker for PHP. Add analytics into your PHP apps and scripts",
     "type": "library",
     "license": "Apache-2.0",
@@ -15,7 +15,7 @@
     "require": {
         "php": ">=7.2",
         "rmccue/requests": ">=1.7",
-        "ramsey/uuid": "3.8.0"
+        "ramsey/uuid": "^3.5 | ^4"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.1.4",
